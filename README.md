@@ -1,1 +1,6 @@
-# H-M-Personalized-Fashion-Recommendation-Kaggle-Challenge-
+# H&M-Personalized-Fashion-Recommendation-Kaggle-Challenge-
+
+
+
+
+
