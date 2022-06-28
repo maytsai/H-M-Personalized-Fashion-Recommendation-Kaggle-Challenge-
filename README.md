@@ -25,10 +25,13 @@ To have a better understanding on the company products, customers, and transacti
 - What product category generated least earning for the company?
 
 ## Methodology
+
 **Kmeans Clustering**
+
 To build the personalized recommendation model, the first step we take is to utilize unsupervised learning method k-means to cluster articles dataset. By knowing th optimal K and cluster into 4 groups, we have prepared to run the the predictive analytics on customers datasets merging with the cluster groups.
 
 **Predictive analysis**
+
 We implemented 6 classification models to our data and found out that Decision Tree yielded the best accuracy out of every other model. It outperforms KNN, Gradient Boosting Classifier, Random Forest, Gaussian Naive Bayes, and Linear SVC.
 
 ## Conclusion
