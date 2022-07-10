@@ -1,4 +1,4 @@
-# H&M-Personalized-Fashion-Recommendation-Kaggle-Challenge
+# H&M-Personalized-Fashion-Recommendations
 
 ## Project Description
 The project was given purchase history of customers across time, along with supporting metadata from H&M. Our challenge is to support the dats exploratory on H&M's Marketing Strategy on Email Marketing and buying preference on the articles. Moreover, build a fashion recommendation model to sustain the increased sales from their online channel post COVID19 pandemic.
